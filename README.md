@@ -1,2 +1,1 @@
-# project
-first_project
+print('Всем привет')
